@@ -36,7 +36,7 @@ To explore or run these proofs locally, you will need to set up Lean 4 on your m
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone [https://github.com/CiprianRad/Lean4_Formal_Proofs.git](https://github.com/CiprianRad/Lean4_Formal_Proofs.git)
+    git clone https://github.com/CiprianRad/Lean4_Formal_Proofs.git
     cd Lean4_Formal_Proofs
 
 2. Open the folder in VS Code, open any .lean file, and place your cursor inside a proof to observe the Lean Infoview pane update with the current proof state and goals.
